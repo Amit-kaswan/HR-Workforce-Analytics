@@ -1,5 +1,15 @@
 # 📊 HR Workforce Analytics Dashboard
 
+## 📷 Dashboard Preview
+
+![HR Workforce Analytics Dashboard](https://raw.githubusercontent.com/Amit-kaswan/HR-Workforce-Analytics/main/Dashboard.png)
+
+## 📄 Executive Summary Preview
+
+![Executive Summary](https://raw.githubusercontent.com/Amit-kaswan/HR-Workforce-Analytics/main/Executive_Summary.png)
+
+---
+
 ## 📌 Project Overview
 
 This project is an interactive HR Workforce Analytics Dashboard built using **Excel, SQL, and Power BI**. It analyzes employee data to uncover workforce trends, employee attrition, salary distribution, workforce demographics, and city-wise employee distribution.
